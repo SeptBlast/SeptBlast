@@ -20,6 +20,35 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+```text
+Python       3 hrs 10 mins   ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+Java         10 hr 22 mins   ████████████░░░░░░░░░░░░░   42.57 % 
+TypeScript   1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Bash         1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+JavaScript   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Markdown     49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+```
+<!--END_SECTION:waka-->
+
+<br />
+<br />
+
+
+## Code Stats
+<img align="left" alt="SeptBlast's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /><br /><br />
+<br /><br />
+<br /><br />
+<br />
+
+<br />
+
+
+<br />
+<br />
 
 ### Languages and Tools:
 
