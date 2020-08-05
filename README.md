@@ -21,6 +21,28 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=septblast" alt="septblast" /> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=septblast&layout=compact&hide=html" alt="septblast" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true" alt="septblast" />
+
+<p align="center"> 
+<a href="https://dev.to/septblast" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="septblast" height="30" width="30" /></a>
+<a href="https://twitter.com/i_amdevesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="i_amdevesh" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/deveshkumar12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deveshkumar12" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/leisurezone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="leisurezone" height="30" width="30" /></a>
+<a href="https://fb.com/iamdeveshkumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamdeveshkumar" height="30" width="30" /></a>
+<a href="https://instagram.com/i_amdevesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_amdevesh" height="30" width="30" /></a>
+<a href="https://medium.com/@deveshkumar_74858" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@deveshkumar_74858" height="30" width="30" /></a>
+</p>
+
 <br />
 <br />
 
