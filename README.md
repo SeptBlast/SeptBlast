@@ -14,24 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Frontend Development
 - ⚡ Fun fact: I love Sketching, Cooking and Riding Bikes.
 
-### Connect with me:
-
-[<img align="left" alt="https://septblast.github.io/portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=septblast" alt="septblast" /> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=septblast&layout=compact&hide=html" alt="septblast" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true" alt="septblast" />
+### <p align="center"> Connect with me: </p>
 
 <p align="center"> 
 <a href="https://dev.to/septblast" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="septblast" height="30" width="30" /></a>
@@ -43,14 +26,19 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@deveshkumar_74858" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@deveshkumar_74858" height="30" width="30" /></a>
 </p>
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <br />
 <br />
 
-### 📊 **This week I spent my time on**
+### <p align="center"> 📊 **This week I spent my time on** </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=septblast&layout=compact&hide=html" alt="septblast" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true" alt="septblast" />
+
 
 ### Languages and Tools:
 <br/>
