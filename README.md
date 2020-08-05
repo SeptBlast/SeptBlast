@@ -39,7 +39,7 @@ Markdown     49 mins         █░░░░░░░░░░░░░░░░
 
 
 ## Code Stats
-<img align="left" alt="SeptBlast's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /><br /><br />
+<img align="left" alt="SeptBlast's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SeptBlast&show_icons=true&hide_border=true" /><br /><br />
 <br /><br />
 <br /><br />
 <br />
