@@ -22,23 +22,14 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-Python       3 hrs 10 mins   ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-Java         10 hr 22 mins   ████████████░░░░░░░░░░░░░   42.57 % 
-TypeScript   1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Bash         1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-JavaScript   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Markdown     49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-```
-<!--END_SECTION:waka-->
+### 📊 **This week I spent my time on**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeptBlast)
 
 <br />
 <br />
 
 
-<img align="left" alt="Devesh Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SeptBlast&show_icons=true&hide_border=true" /><br /><br />
+<img align="left" alt="Devesh Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SeptBlast&hide_border=true&count_private=true&show_icons=true?theme=dark" /><br /><br />
 <br /><br />
 <br /><br />
 <br />
@@ -50,6 +41,8 @@ Markdown     49 mins         █░░░░░░░░░░░░░░░░
 <br />
 
 ### Languages and Tools:
+
+
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
