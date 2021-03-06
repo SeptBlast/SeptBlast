@@ -5,7 +5,7 @@
 ## <p align="center">I'm a Passionate Backend Developer with hardcode DevOps knowledge...</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=septblast" alt="septblast" /> </p>
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="305">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="225">
 
 
 
