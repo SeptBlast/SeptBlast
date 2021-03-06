@@ -1,24 +1,27 @@
-### Hi there, I'm Devesh - aka. SeptBlast 👋
+# Hi there, I'm Devesh - aka. SeptBlast <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="22px">
 
-<br/>
+---
 
-# <p align="center">I'm a Passionate Backend Developer with hardcode DevOps knowledge...</p>
+## <p align="center">I'm a Passionate Backend Developer with hardcode DevOps knowledge...</p>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="305">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=septblast" alt="septblast" /> </p>
 
-<!--
-**SeptBlast/SeptBlast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **SeptBlast/SeptBlast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+Here are some ideas to get you started: -->
 
 -   🔭 I’m currently working on Django Based webApplications
 -   🌱 I’m currently learning everything 😇
 -   🤔 I’m looking for help with Frontend Development
 -   ⚡ Fun fact: I love Sketching, Cooking and Riding Bikes.
-    <br/>
 
-### <p align="center"> Connect with me: </p>
+<br/>
+
+# <p align="center"> Connect with me: </p>
 
 <p align="center"> 
 <a href="https://dev.to/septblast" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="septblast" height="30" width="30" /></a>
@@ -38,8 +41,8 @@ Here are some ideas to get you started:
 
 ### <p align="center"> 📊 **This week I spent my time on** </p><br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=septblast&layout=compact&hide=html" alt="septblast" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true" alt="septblast" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=septblast&layout=compact&hide=html" alt="septblast" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true" alt="septblast" /> -->
 
 <br /><br />
 
