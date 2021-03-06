@@ -42,7 +42,7 @@ Here are some ideas to get you started: -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true" alt="septblast" />
 
 <br /><br /><br /><br /><br /><br />
-
+<br /><br />
 ---
 ### <p align="center"> Languages and Tools: </p>
 
