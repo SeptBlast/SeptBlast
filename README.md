@@ -41,7 +41,7 @@ Here are some ideas to get you started: -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=septblast&layout=compact&hide=html" alt="septblast" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true" alt="septblast" />
 
-<br /><br />
+<br /><br /><br /><br /><br /><br />
 
 ### <p align="center"> Languages and Tools: </p>
 
