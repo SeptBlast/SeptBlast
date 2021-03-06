@@ -17,9 +17,10 @@ Here are some ideas to get you started: -->
 -   🤔 I’m looking for help with Frontend Development
 -   ⚡ Fun fact: I love Sketching, Cooking and Riding Bikes.
 
-<br/>
+<br/><br/><br/><br/>
 
-# <p align="center"> Connect with me: </p>
+### <p align="center"> Connect with me: </p>
+---
 
 <p align="center"> 
 <a href="https://dev.to/septblast" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="septblast" height="30" width="30" /></a>
