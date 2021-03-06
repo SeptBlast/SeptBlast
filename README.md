@@ -38,8 +38,8 @@ Here are some ideas to get you started: -->
 
 ### <p align="center"> 📊 **This week I spent my time on** </p><br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=septblast&layout=compact&hide=html" alt="septblast" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true" alt="septblast" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=septblast&layout=compact&hide=html" alt="septblast" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true" alt="septblast" />
 
 <br /><br />
 
