@@ -1,7 +1,5 @@
 # Hi there, I'm Devesh - aka. SeptBlast <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="22px">
 
----
-
 ## <p align="center">I'm a Passionate Backend Developer with hardcode DevOps knowledge...</p>
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="330" height="215">
@@ -41,7 +39,7 @@ Here are some ideas to get you started: -->
 ### <p align="center"> 📊 **This week I spent my time on** </p><br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=septblast&layout=compact&hide=html" alt="septblast" />
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true" alt="septblast" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true" alt="septblast" />
 
 <br /><br />
 
