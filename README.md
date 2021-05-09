@@ -30,22 +30,21 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@deveshkumar_74858" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@deveshkumar_74858" height="30" width="30" /></a>
 </p>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <br />
 <br />
 
-### <p align="center"> 📊 **This week I spent my time on** </p><br />
+### <p align="center">📊 **This week I spent my time on** </p><br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=septblast&layout=compact&hide=html" alt="septblast" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true" alt="septblast" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septblast&layout=compact&hide=html" alt="septblast" /> <br />
+<img src="https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true" alt="septblast" />
+</p>
 
 <br /><br />
 
 ### <p align="center"> Languages and Tools: </p>
 
-<p>
+<p align="center">
     <img src="./logos/aws.svg" alt="aws" width="40" height="40"/>
     <img src="./logos/azure-icon.svg" alt="azure" width="40" height="40"/>
     <img src="./logos/bash.svg" alt="bash" width="40" height="40"/>
