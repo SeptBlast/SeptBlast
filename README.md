@@ -12,10 +12,10 @@
 Here are some ideas to get you started:
 -->
 
--   🔭 I’m currently working on Django Based webApplications
--   🌱 I’m currently learning everything 😇
+-   🔭 I’m currently working on NodeJS + ReactJS Based webApplications
+-   🌱 I’m currently learning optimization and cryptict stratigies of coding and securing the private data. 😇
 -   🤔 I’m looking for help with Frontend Development
--   ⚡ Fun fact: I love Sketching, Cooking and Riding Bikes.
+-   ⚡ Fun fact: I love Sketching✍🏻, Cooking👨🏻‍🍳 and Riding Bikes🏍.
     <br/>
 
 ### <p align="center"> Connect with me: </p>
