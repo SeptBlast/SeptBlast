@@ -1,4 +1,4 @@
-### Hi there, I'm Devesh - aka. SeptBlast 👋
+### <div style="align-items='center';">Hi there, I'm Devesh - aka. SeptBlast 👋</div>
 
 <br/>
 
