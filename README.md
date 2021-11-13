@@ -1,4 +1,4 @@
-### <div style="align-items='center';">Hi there, I'm Devesh - aka. SeptBlast 👋</div>
+### <div align='center'>Hi there, I'm Devesh - aka. SeptBlast 👋</div>
 
 <br/>
 
