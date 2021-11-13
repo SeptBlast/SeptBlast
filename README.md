@@ -1,26 +1,34 @@
+<div align="center">
+<img width="100%" height = "100%" src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" alt="cover" />
+</div>
+
 ### <div align='center'>Hi there, I'm Devesh - aka. SeptBlast 👋</div>
 
 <br/>
 
 # <p align="center">I'm a Passionate Backend Developer with hardcode DevOps knowledge...</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=septblast" alt="septblast" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=septblast" alt="septblast" /> 
+<br />
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+</p>
 
-<!--
-**SeptBlast/SeptBlast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Here are some ideas to get you started:
--->
-
--   🔭 I’m currently working on NodeJS + ReactJS Based webApplications
--   🌱 I’m currently learning optimization and cryptict stratigies of coding and securing the private data. 😇
+-   🔭 I’m currently working on Python + NodeJS + ReactJS Based webApplications
+-   🌱 I’m learning optimization and cryptic strategies of coding and securing the private data. 😇
 -   🤔 I’m looking for help with Frontend Development
 -   ⚡ Fun fact: I love Sketching✍🏻, Cooking👨🏻‍🍳 and Riding Bikes🏍.
     <br/>
 
-### <p align="center"> Connect with me: </p>
+<img width="40%" align="left" alt="Github" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
-<p align="center"> 
+<br>
+<br><br><br>
+
+### <p align="right"> Connect with me: </p>
+
+<p align="right"> 
 <a href="https://dev.to/septblast" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="septblast" height="30" width="30" /></a>
 <a href="https://twitter.com/i_amdevesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="i_amdevesh" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/deveshkumar12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deveshkumar12" height="30" width="30" /></a>
@@ -32,15 +40,28 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
-### <p align="center">📊 **This week I spent my time on** </p><br />
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septblast&layout=compact&hide=html" alt="septblast" /> <br />
-<img src="https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true" alt="septblast" />
-</p>
-
 <br /><br />
+
+<!-- [![](https://activity-graph.herokuapp.com/graph?username=SeptBlast&theme=white)](https://git.io/praveenscience) -->
+
+## **Spotify Playing** 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+<describe>
+
+<summary>
+
+### 📊 **This week I spent my time on**
+
+</summary>
+
+| ![Devesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeptBlast&theme=tokyoday) | ![](https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true) |
+| :--------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+
+</describe>
+
+<br /><br /><br />
 
 ### <p align="center"> Languages and Tools: </p>
 
