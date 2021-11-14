@@ -6,7 +6,7 @@
 
 <br/>
 
-# <p align="center">I'm a Passionate Backend Developer with good DevOps knowledge...</p>
+# <p align="center">I'm a Passionate Full-Stack Developer with good DevOps knowledge...</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=septblast" alt="septblast" /> 
 <br />
