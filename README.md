@@ -42,30 +42,30 @@
 <br />
 <br /><br />
 
-<!-- [![](https://activity-graph.herokuapp.com/graph?username=SeptBlast&theme=white)](https://git.io/praveenscience) -->
-
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### **Spotify Playing** 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
-<describe>
-
-<summary>
-
 ### **This week I spent my time on** 📊
 
-</summary>
+| ![Devesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeptBlast&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true) | ![Devesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true&count_private=true&theme=github_light&hide_border=true) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| ![Devesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeptBlast&theme=tokyoday) | ![](https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true) |
-| :--------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+<p align="center">
 
-</describe>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeptBlast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br /><br /><br />
+</p>
 
-### <p align="center"> Languages and Tools: </p>
+[![](https://activity-graph.herokuapp.com/graph?username=SeptBlast&theme=github-light)](https://git.io/praveenscience)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+
+## <p align="center"> Languages and Tools: </p>
 
 <p align="center">
     <img src="./logos/aws.svg" alt="aws" width="40" height="40"/>
@@ -98,3 +98,5 @@
     <img src="./logos/typescript-icon.svg" alt="ts" width="40" height="40"/>
     <img src="./logos/terraform.svg" alt="terraform" width="40" height="40"/>
 </p>
+
+<!-- [![SeptBlast's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SeptBlast)](https://github.com/anuraghazra/github-readme-stats) -->
