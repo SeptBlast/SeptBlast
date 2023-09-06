@@ -22,7 +22,7 @@
 -   Some recent opensource packages I delivered are found at:
 > -    [Docker Hub](https://hub.docker.com/repositories/imdevesh)
 > -    [GitHub Packages Manager](https://github.com/SeptBlast?tab=packages)
-> -    [NPM Package Manager]()
+> -    [NPM Package Manager](https://www.npmjs.com/settings/imdevesh/packages)
     <br/>
 
 <img width="40%" align="left" alt="Github" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
