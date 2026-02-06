@@ -95,41 +95,26 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
-<details>
-<summary style="font-weight: 600; font-size: 16px;">This week I spent my time on 📊</summary>
-
-| ![Devesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeptBlast&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true) | ![Devesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true&count_private=true&theme=github_light&hide_border=true) |
-| --- | --- |
+### **Languages and Tools**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeptBlast&layout=compact" align="center" />
+<img alt="aws" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/aws.svg" height="60" />
+<img alt="azure" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/azure-icon.svg" height="60" />
+<img alt="gcp" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/gcp.svg" height="60" />
+<img alt="kubernetes" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/kubernetes.svg" height="60" />
+<img alt="docker" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/docker-icon.svg" height="60" />
+<img alt="terraform" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/terraform.svg" height="60" />
+<img alt="github" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/github.svg" height="60" />
+<img alt="git" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/git-icon.svg" height="60" />
+<img alt="bash" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/bash.svg" height="60" />
+<img alt="python" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/python.svg" height="60" />
+<img alt="go" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/go.svg" height="60" />
+<img alt="js" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/javascript.svg" height="60" />
+<img alt="nodejs" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/nodejs-icon.svg" height="60" />
+<img alt="postgres" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/postgresql.svg" height="60" />
+<img alt="mongodb" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/mongodb-icon.svg" height="60" />
+<img alt="redis" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/redis.svg" height="60" />
+<img alt="kafka" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/kafka-icon.svg" height="60" />
 </p>
-
-</details>
-
-<details>
-<summary style="font-weight: 600; font-size: 16px;">Languages and Tools</summary>
-
-<p>
-<img alt="aws" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/aws.svg" height="50" />
-<img alt="azure" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/azure-icon.svg" height="50" />
-<img alt="gcp" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/gcp.svg" height="50" />
-<img alt="kubernetes" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/kubernetes.svg" height="50" />
-<img alt="docker" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/docker-icon.svg" height="50" />
-<img alt="terraform" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/terraform.svg" height="50" />
-<img alt="github" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/github.svg" height="50" />
-<img alt="git" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/git-icon.svg" height="50" />
-<img alt="bash" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/bash.svg" height="50" />
-<img alt="python" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/python.svg" height="50" />
-<img alt="go" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/go.svg" height="50" />
-<img alt="js" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/javascript.svg" height="50" />
-<img alt="nodejs" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/nodejs-icon.svg" height="50" />
-<img alt="postgres" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/postgresql.svg" height="50" />
-<img alt="mongodb" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/mongodb-icon.svg" height="50" />
-<img alt="redis" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/redis.svg" height="50" />
-<img alt="kafka" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/kafka-icon.svg" height="50" />
-</p>
-
-</details>
 
 <img src="https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=default&layout=samuel&font=default" align="center" />
