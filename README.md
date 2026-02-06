@@ -15,7 +15,7 @@
 
 ### 👨‍💼 Professional Profile
 
-🔭 **Currently:** Staff Software Engineer at StartupManch, building GenAI and platform infrastructure
+🔭 **Currently:** Co-Founder and Engineering Lead at StartupManch, building GenAI and platform infrastructure
 
 🏢 **Experience:** 8+ years designing and operating large-scale cloud and developer platforms
 
