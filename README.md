@@ -1,10 +1,12 @@
-<div align="center"><img width="100%" height="100%" src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" alt="cover" /></div>
+<div align="center">
+<img width="100%" height="100%" src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" alt="cover" />
+</div>
 
-# <div align='center'>Hi there, I'm Devesh - aka. SeptBlast 👋</div>
+# <div align="center">Hi there, I'm Devesh - aka. SeptBlast 👋</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=septblast" alt="septblast" />
-  <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" alt="code" height="100px" />
+<img src="https://komarev.com/ghpvc/?username=septblast" alt="septblast" />
+<img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" alt="code" height="100px" />
 </p>
 
 ## <p align="center">Staff Software Engineer | Cloud Infrastructure | Kubernetes SRE | GenAI Platforms | Platform Engineering</p>
@@ -76,13 +78,13 @@
 ### 🌐 Connect with me:
 
 <p align="right">
-  <a href="https://dev.to/septblast" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="septblast" height="30" width="30" /></a>
-  <a href="https://twitter.com/i_amdevesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="i_amdevesh" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/deveshkumar12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deveshkumar12" height="30" width="30" /></a>
-  <a href="https://stackoverflow.com/users/leisurezone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="leisurezone" height="30" width="30" /></a>
-  <a href="https://fb.com/iamdeveshkumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamdeveshkumar" height="30" width="30" /></a>
-  <a href="https://instagram.com/i_amdevesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_amdevesh" height="30" width="30" /></a>
-  <a href="https://medium.com/@deveshkumar_74858" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@deveshkumar_74858" height="30" width="30" /></a>
+<a href="https://dev.to/septblast" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="septblast" height="30" width="30" /></a>
+<a href="https://twitter.com/i_amdevesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="i_amdevesh" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/deveshkumar12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deveshkumar12" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/leisurezone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="leisurezone" height="30" width="30" /></a>
+<a href="https://fb.com/iamdeveshkumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamdeveshkumar" height="30" width="30" /></a>
+<a href="https://instagram.com/i_amdevesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_amdevesh" height="30" width="30" /></a>
+<a href="https://medium.com/@deveshkumar_74858" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@deveshkumar_74858" height="30" width="30" /></a>
 </p>
 
 ---
@@ -94,45 +96,40 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 <details>
-<summary style="font-weight: 600; font-size: 16px">This week I spent my time on 📊</summary>
+<summary style="font-weight: 600; font-size: 16px;">This week I spent my time on 📊</summary>
 
 | ![Devesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeptBlast&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true) | ![Devesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=septblast&show_icons=true&count_private=true&theme=github_light&hide_border=true) |
 | --- | --- |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeptBlast&layout=compact" align="center" />
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SeptBlast&theme=github-light" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeptBlast&layout=compact" align="center" />
 </p>
 
 </details>
 
-<details open="true">
-<summary style="font-weight: 600; font-size: 16px">Languages and Tools</summary>
+<details>
+<summary style="font-weight: 600; font-size: 16px;">Languages and Tools</summary>
 
 <p>
-  <img src="./logos/aws.svg" alt="aws" width="40" height="40"/>
-  <img src="./logos/azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="./logos/gcp.svg" alt="gcp" width="40" height="40"/>
-  <img src="./logos/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="./logos/docker-icon.svg" alt="docker" width="40" height="40"/>
-  <img src="./logos/terraform.svg" alt="terraform" width="40" height="40"/>
-  <img src="./logos/github.svg" alt="github" width="40" height="40"/>
-  <img src="./logos/git-icon.svg" alt="git" width="40" height="40"/>
-  <img src="./logos/bash.svg" alt="bash" width="40" height="40"/>
-  <img src="./logos/python.svg" alt="python" width="40" height="40"/>
-  <img src="./logos/go.svg" alt="go" width="40" height="40"/>
-  <img src="./logos/javascript.svg" alt="js" width="40" height="40"/>
-  <img src="./logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
-  <img src="./logos/postgresql.svg" alt="postgres" width="40" height="40"/>
-  <img src="./logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-  <img src="./logos/redis.svg" alt="redis" width="40" height="40"/>
-  <img src="./logos/kafka-icon.svg" alt="kafka" width="40" height="40"/>
+<img alt="aws" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/aws.svg" height="50" />
+<img alt="azure" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/azure-icon.svg" height="50" />
+<img alt="gcp" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/gcp.svg" height="50" />
+<img alt="kubernetes" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/kubernetes.svg" height="50" />
+<img alt="docker" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/docker-icon.svg" height="50" />
+<img alt="terraform" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/terraform.svg" height="50" />
+<img alt="github" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/github.svg" height="50" />
+<img alt="git" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/git-icon.svg" height="50" />
+<img alt="bash" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/bash.svg" height="50" />
+<img alt="python" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/python.svg" height="50" />
+<img alt="go" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/go.svg" height="50" />
+<img alt="js" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/javascript.svg" height="50" />
+<img alt="nodejs" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/nodejs-icon.svg" height="50" />
+<img alt="postgres" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/postgresql.svg" height="50" />
+<img alt="mongodb" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/mongodb-icon.svg" height="50" />
+<img alt="redis" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/redis.svg" height="50" />
+<img alt="kafka" src="https://raw.githubusercontent.com/SeptBlast/SeptBlast/master/logos/kafka-icon.svg" height="50" />
 </p>
 
 </details>
 
----
-
-<p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=default&layout=samuel&font=default" />
-</p>
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=default&layout=samuel&font=default" align="center" />
